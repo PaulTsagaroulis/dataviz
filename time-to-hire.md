@@ -3,7 +3,7 @@ import pandas as pd
 import pylab as plt
 import numpy as np
 
-T2Hfile = pd.ExcelFile('/Users/ptsag/Downloads/time-to-hire-data-file.xlsx')
+T2Hfile = pd.ExcelFile('/Users/USER/Downloads/time-to-hire-data-file.xlsx')
 T2Hfile
 T2Hfile.sheet_names
 
